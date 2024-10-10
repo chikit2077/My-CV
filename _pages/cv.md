@@ -27,7 +27,7 @@ Experience
   * Northwest Women’s and Children’s Hospital, Xi’an, China
   * Duties included:
     * Applications of machine learning on biomedical data.
-    * Biomedical Data Analysis.
+    * Genome-wide association studies (GWAS) of reproductive disorders in China.
   * Supervisor: [Prof. Yajun Li](http://www.szxyjhxh.cn/fzjg/zwhyx/zwhmd220111/myzw051/2190.html)
 
 <!-- * Summer 2023-Today: **Postgraduate Student**
