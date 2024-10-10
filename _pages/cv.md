@@ -52,8 +52,9 @@ Skills
 ======
 * Data Mining
 * Natural Language Processing
+* Server Maintenance
 * Programming Languages: Python, R, Java, Shell
-* Web Application Development: Vue, PHP, SQL
+* Web Application Development: Vue, Spring, PHP, SQL
 
 Languages
 ======
