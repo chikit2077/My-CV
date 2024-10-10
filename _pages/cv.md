@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * Postgraduate (by recommendation), Biology and Medicine, Northwest A&F University, 2023-today
-  * Supervisor: [Prof. Mingzhi Liao](https://sm.nwsuaf.edu.cn/szdw/js2/389648.htm), [AR. Hebing Chen](https://orcid.org/0000-0003-4102-356X)
+  * Supervisor: [Prof. Mingzhi Liao](https://sm.nwsuaf.edu.cn/szdw/js2/389648.htm), [Dr. Hebing Chen](https://orcid.org/0000-0003-4102-356X)
 * Bachelor, Software Engineering, Northwest A&F University, 2019-2023
   * Supervisor: [Prof. Fuyi Li](https://cie.nwsuaf.edu.cn/szdw/js/2022110040/index.htm)
 
@@ -21,7 +21,7 @@ Experience
 ======
 * Summer 2024-Today: **Visiting Student**
   * Institute of Health Service and Transfusion Medicine, Beijing, China
-  * Supervisor: [AR. Hebing Chen](https://orcid.org/0000-0003-4102-356X), [Dr. Yu Sun](https://github.com/sunyolo)
+  * Supervisor: [Dr. Hebing Chen](https://orcid.org/0000-0003-4102-356X), [Dr. Yu Sun](https://github.com/sunyolo)
 
 * Spring 2024: **Visiting Student**
   * Northwest Women’s and Children’s Hospital, Xi’an, China
