@@ -69,7 +69,7 @@ Awards
 * Shaanxi Provincial Academic Union Student Union Advanced Work Individual Award (2022)
 * The First Prize Scholarship (2020-2023)
 * Merit Student and Excellent Student Cadre (2020-2021)
-* National English Competition for College Students (NECCS, Third Prize, 2020)
+* The Third Prize of National English Competition for College Students (2020)
 * The joint recipients of the United Nations Annual Champions of the Earth Award (2019)
 * The annual "Touching China" awards (2008)
 * Time magazine's "Person of the Year" (2006)
