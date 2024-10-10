@@ -26,15 +26,13 @@ Experience
 * Spring 2024: **Visiting Student**
   * Northwest Women’s and Children’s Hospital, Xi’an, China
   * Duties included:
-    * Applications of machine learning on biomedical data.
+    * Machine learning analysis of electronic medical record data of preterm infants with brain injury.
     * Genome-wide association studies (GWAS) of reproductive disorders in China.
   * Supervisor: [Prof. Yajun Li](http://www.szxyjhxh.cn/fzjg/zwhyx/zwhmd220111/myzw051/2190.html)
 
 <!-- * Summer 2023-Today: **Postgraduate Student**
   * College of Life Sciences, Northwest A&F University, Yangling, China
   * Supervisor: [Prof. Mingzhi Liao (杰青)](https://sm.nwsuaf.edu.cn/szdw/js2/389648.htm) -->
-
-
 * Summer 2022-2023: **Research Assistant**
   * College of Information Engineering, Northwest A&F University, Yangling, China
   * Duties included: 
