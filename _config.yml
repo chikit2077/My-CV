@@ -14,7 +14,7 @@ name                     : &name "Zhijie He"
 description              : &description "personal description"
 url                      : https://zhijie-he.us.kg # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "2019012971/2019012971.github.io"
+repository               : "chikit2077/2019012971.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "Zhi-jie He (何志傑)"
-  pronouns         :  # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Graduate student at Northwest A&F University"
   location         : "Yangling, Shannxi"
   # employer         : "Red Brick University"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "2019012971"
+  github           : "chikit2077"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,23 +12,22 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* Postgraduate (by recommendation), Biology and Medicine, Northwest A&F University, 2023-today
-  * Supervisor: [Prof. Mingzhi Liao](https://sm.nwsuaf.edu.cn/szdw/js2/389648.htm), [Dr. Hebing Chen](https://orcid.org/0000-0003-4102-356X)
-* Bachelor, Software Engineering, Northwest A&F University, 2019-2023
+* Postgraduate (by recommendation), Biology and Medicine, Northwest A&F University (Project 985), 2023-today
+  * Supervisor: [Prof. Mingzhi Liao](https://sm.nwsuaf.edu.cn/szdw/js2/389648.htm), [Prof. Hebing Chen](https://orcid.org/0000-0003-4102-356X)
+* Bachelor, Software Engineering, Northwest A&F University (Project 985), 2019-2023
   * Supervisor: [Prof. Fuyi Li](https://cie.nwsuaf.edu.cn/szdw/js/2022110040/index.htm)
 
 Experience
 ======
-* Summer 2024-Today: **Visiting Student**
+* Summer 2024-Today: **Joint Supervision**
   * Institute of Health Service and Transfusion Medicine, Beijing, China
-  * Supervisor: [Dr. Hebing Chen](https://orcid.org/0000-0003-4102-356X), [Dr. Yu Sun](https://github.com/sunyolo)
+  * Supervisor: [Prof. Hebing Chen](https://orcid.org/0000-0003-4102-356X), [Prof. Yu Sun](https://github.com/sunyolo)
 
 * Spring 2024: **Visiting Student**
   * Northwest Women’s and Children’s Hospital, Xi’an, China
   * Duties included:
-    * Machine learning analysis of electronic medical record data of preterm infants with brain injury.
-    * Genome-wide association studies (GWAS) of reproductive disorders in China.
-  * Supervisor: [Prof. Yajun Li](http://www.szxyjhxh.cn/fzjg/zwhyx/zwhmd220111/myzw051/2190.html)
+    * Machine learning analysis and model interpretability of electronic medical record data of preterm infants with brain injury: [PBIPred](https://doi.org/10.1016/j.cmpb.2024.108559).
+    * Genome-wide association studies (GWAS) of reproductive disorders in populations in north-west China.
 
 <!-- * Summer 2023-Today: **Postgraduate Student**
   * College of Life Sciences, Northwest A&F University, Yangling, China
@@ -50,17 +49,17 @@ Experience
 
 Skills
 ======
-* Data Mining
-* Natural Language Processing
-* Server Maintenance
-* Programming Languages: Python, R, Java, Shell
-* Web Application Development: Vue, Spring, PHP, SQL
+* Data Analysis & Mining: Expertise in extracting insights from large biomedical datasets using advanced analytical tools and methodologies.
+* Natural Language Processing (NLP): Proficient in developing and implementing NLP models for biological and general-purpose applications.
+* High-Performance Computing (HPC): Hands-on experience in maintaining and optimizing HPC systems for large-scale computational tasks.
+* Programming: Skilled in Python, R, Java, and Shell scripting for software development and automation.
+* Web Development: Proficient in creating scalable web applications using Vue.js, Spring Framework, PHP, and SQL databases.
 
 Languages
 ======
-* English: Fluent (Third Prize of NECCS)
-* Chinese (Mandarin & Cantonese): Native
-* Japanese: Beginner
+* English: Fluent (Awarded Third Prize in the National English Competition for College Students)
+* Chinese: Native speaker (Mandarin and Cantonese)
+* Japanese: Beginner level (Actively learning)
 
 Awards
 ======
