@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhijie He"
 description              : &description "personal description"
-url                      : https://zhijie-he.us.kg # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chikit2077.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chikit2077/2019012971.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
